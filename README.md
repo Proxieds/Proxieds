@@ -1,3 +1,3 @@
 # Proxieds
-<img float="left" width ="475px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Proxieds"></img>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Proxieds"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proxieds&layout=compact&hide_title=1&card_width=300"/>
