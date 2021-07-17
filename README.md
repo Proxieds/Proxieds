@@ -1,3 +1,6 @@
 # Proxieds
+<!--- Github Stats --->
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Proxieds"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proxieds&layout=compact&hide_title=1&card_width=300"/>
+
+![](https://raw.githubusercontent.com/Proxieds/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Proxieds/github-stats-transparent/output/generated/languages.svg)
