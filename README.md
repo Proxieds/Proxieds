@@ -1,11 +1,6 @@
-
-# Proxieds
-
-## About Me
-* Hi there
-<h3>Connect with Me</h3>
-
-<p>
+<h1 align="center" > <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/> Hey there, I'm Victor</h1>
+<h5 align="center">A passionate developer from  <img src="https://image.flaticon.com/icons/png/512/2484/2484225.png" width="15"> Canada</h5>
+<p align="center">
 <a href="https://github.com/Proxieds" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/LieuVictor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a>
 <a href="mailto:victor1@ualberta.ca target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
