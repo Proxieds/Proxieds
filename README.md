@@ -1,5 +1,5 @@
 <h1 align="center" > <img target="_blank" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/> Hey there, I'm Victor</h1>
-<h5 align="center">A passionate developer from  <img target="_blank" src="https://cdn-icons-png.flaticon.com/512/330/330442.png" width="15"> Canada</h5>
+<h5 align="center">A passionate developer from  <img target="_blank" src="https://cdn-icons.flaticon.com/png/512/3105/premium/3105373.png?token=exp=1649880610~hmac=5c1000a09950086209f13b555bc70020" width="15"> Canada</h5>
 <p align="center">
 <a href="https://github.com/Proxieds" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/LieuVictor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a>
